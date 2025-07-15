@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkexample=self.webpackChunkexample||[]).push([[4059],{6089:function(e,n,t){t.r(n);var c=t(8453),o=t(6540);function s(e){const n=Object.assign({p:"p"},(0,c.R)(),e.components);return o.createElement(n.p,null,"Coming Soon")}n.default=function(e){void 0===e&&(e={});const{wrapper:n}=Object.assign({},(0,c.R)(),e.components);return n?o.createElement(n,e,o.createElement(s,e)):s(e)}}}]);
+//# sourceMappingURL=component---src-pages-acmapps-technical-records-mdx-b155b2f77640f43e4075.js.map
